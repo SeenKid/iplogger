@@ -1,4 +1,4 @@
-  <a href="https://github.com/SeenKid/iplogger/stargazers">
+  <a href="https://github.com/SeenKid/iplogger/stargazers"> </a>
     <img src="https://img.shields.io/github/stars/SeenKid/iplogger"/> 
     <img src="https://img.shields.io/github/languages/code-size/SeenKid/iplogger?color=light-green&style=for-the-badge"/> 
 
